@@ -709,23 +709,24 @@ ul, ol {
 }
 
 .item--2{
-	background-image: url(../img/services/img-2.jpg);
+	background-image: url(../img/services/img-9.jpg);
 }
 
 .item--3{
-	background-image: url(../img/services/img-3.jpg);
+	background-image: url(../img/services/img-8.jpg);
 }
 
 .item--4{
-	background-image: url(../img/services/img-4.jpg);
+	background-image: url(../img/services/img-3.jpg);
 }
 
 .item--5{
-	background-image: url(../img/services/img-5.jpg);
+	background-image: url(../img/services/img-6.jpg);
 }
 
 .item--6{
-	background-image: url(../img/services/img-6.jpg);
+	background-image: url(../img/services/img-7.jpg);
+	background-size: cover;
 }
 
 .service-item:hover .item--6 {
