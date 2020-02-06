@@ -1128,11 +1128,19 @@ ul, ol {
 .about-page-services .ap-service-item .api-text {
 	position: absolute;
 	left: 0;
-	bottom: 40px;
+	height: 40%;
 	width: 100%;
+	background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3)5%, rgb(0, 0, 0, .8)30%,  rgb(0, 0, 0, .8)40%);
 	text-align: center;
+	color: #fff;
+	top: 60%;
+	padding:0 2rem;
 }
 .about-page-services .ap-service-item .api-text h3 {
+	color: #ffffff;
+}
+
+.about-page-services .ap-service-item .api-text p {
 	color: #ffffff;
 }
 /*---------------------
