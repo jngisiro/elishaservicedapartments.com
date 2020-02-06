@@ -1143,6 +1143,22 @@ ul, ol {
 .about-page-services .ap-service-item .api-text p {
 	color: #ffffff;
 }
+
+.amenities i{
+	font-size: 3rem;
+	display: block;
+	margin-bottom: 3rem;
+}
+
+.amenities__icon{
+	padding:2rem;
+}
+
+.amenities__icon{
+	text-align: center;
+	font-size: 1.6rem;
+}
+
 /*---------------------
   Video Section
 -----------------------*/
